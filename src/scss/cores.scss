@@ -1,0 +1,38 @@
+$primary-blue: #2A85FF;
+$primary-green: #83BF6E;
+$primary-orange: #FF6A55;
+$primary-violet: #8E59FF;
+
+$secondary-blue: #B1E5FC;
+$secondary-green: #B5E4CA;
+$secondary-orange: #FFBC99;
+$secondary-violet: #CABDFF;
+
+//Primary backgrounds
+.bg-p-blue{
+    background-color: $primary-blue;
+}
+.bg-p-green{
+    background-color: $primary-green;
+}
+.bg-p-orange{
+    background-color: $primary-orange;
+}
+.bg-p-violet{
+    background-color: $primary-violet;
+}
+
+//Secondary backgrounds
+.bg-s-blue{
+    background-color: $secondary-blue;
+}
+.bg-s-green{
+    background-color: $secondary-green;
+}
+.bg-s-orange{
+    background-color: $secondary-orange;
+}
+.bg-s-viole{
+    background-color: $secondary-violet;
+}
+
