@@ -1,6 +1,6 @@
 export default function(){
     return(
-        <main>
+        <main className="bg-ligthgray">
             <h1>Dashboard</h1>
             
         </main>

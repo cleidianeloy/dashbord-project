@@ -1,7 +1,12 @@
 @import url('./cores.scss');
-@import url('./sidebar.scss');
 @import url('./text.scss');
+
 @import url('./materialSymbols.scss');
+
+@import url('./sidebar.scss');
+@import url('./main.scss');
+
+
 body{
     margin:0;
     .App{

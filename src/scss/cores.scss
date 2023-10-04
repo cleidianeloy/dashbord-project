@@ -8,6 +8,8 @@ $secondary-green: #B5E4CA;
 $secondary-orange: #FFBC99;
 $secondary-violet: #CABDFF;
 
+$lightgray: #f1f3f4;
+
 //Primary backgrounds
 .bg-p-blue{
     background-color: $primary-blue;
@@ -36,3 +38,7 @@ $secondary-violet: #CABDFF;
     background-color: $secondary-violet;
 }
 
+//basics colors
+.bg-ligthgray{
+    background-color: $lightgray;
+}
